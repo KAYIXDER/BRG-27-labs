@@ -13,4 +13,5 @@ Lab 1a ii, ubuntu using virtualbox.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fb1c187-ff1e-40d2-87b3-27b3ed337026" />
 Lab 1a iii
 
-![Uploading image.png…]()
+<img width="1676" height="924" alt="image" src="https://github.com/user-attachments/assets/1ba99e85-1985-4f22-a84b-93618668fb14" />
+
