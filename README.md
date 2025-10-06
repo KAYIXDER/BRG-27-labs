@@ -16,3 +16,9 @@ Lab 1a iii
 <img width="1676" height="924" alt="image" src="https://github.com/user-attachments/assets/1ba99e85-1985-4f22-a84b-93618668fb14" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33941746-0b3b-4a7a-b4a3-31f8f70ef565" />
+
+
+2b
+key pair!
+<img width="1631" height="253" alt="image" src="https://github.com/user-attachments/assets/0c833483-2bcf-4b14-bb11-4fad19c7793d" />
+
