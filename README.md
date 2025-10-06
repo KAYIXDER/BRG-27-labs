@@ -26,4 +26,6 @@ launched instance
 <img width="1700" height="484" alt="image" src="https://github.com/user-attachments/assets/99b0d265-392e-49df-a35a-92b415e5cd0e" />
 
 
+<img width="1729" height="808" alt="image" src="https://github.com/user-attachments/assets/17b5f30b-1456-4a0e-bf53-19bf28cad524" />
+bash script
 
