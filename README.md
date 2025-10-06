@@ -22,3 +22,8 @@ Lab 1a iii
 key pair!
 <img width="1631" height="253" alt="image" src="https://github.com/user-attachments/assets/0c833483-2bcf-4b14-bb11-4fad19c7793d" />
 
+launched instance
+<img width="1700" height="484" alt="image" src="https://github.com/user-attachments/assets/99b0d265-392e-49df-a35a-92b415e5cd0e" />
+
+
+
