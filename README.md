@@ -14,7 +14,9 @@ Lab 1a iii
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33941746-0b3b-4a7a-b4a3-31f8f70ef565" />
 
-2a
+
+
+2a, TCO cost comparison
 
 <img width="869" height="738" alt="image" src="https://github.com/user-attachments/assets/4e6b2ee9-e838-47af-a9f9-b53c9a5a6721" />
 
