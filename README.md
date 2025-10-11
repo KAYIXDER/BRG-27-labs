@@ -3,10 +3,6 @@ for my bridging programme things
 
 
 
-<img width="714" height="711" alt="image" src="https://github.com/user-attachments/assets/8a6a2cec-cac1-4357-a43d-609a78513da3" />
-
-
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/92f1f346-3421-49ce-a33b-9b68434d9ea8" />
 Lab 1a ii, ubuntu using virtualbox.
 
@@ -17,6 +13,11 @@ Lab 1a iii
 <img width="1676" height="924" alt="image" src="https://github.com/user-attachments/assets/1ba99e85-1985-4f22-a84b-93618668fb14" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33941746-0b3b-4a7a-b4a3-31f8f70ef565" />
+
+2a
+
+<img width="869" height="738" alt="image" src="https://github.com/user-attachments/assets/4e6b2ee9-e838-47af-a9f9-b53c9a5a6721" />
+
 
 
 2b
