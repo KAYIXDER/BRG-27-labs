@@ -20,6 +20,9 @@ Lab 1b, listing services in linux
 checking status of services
 <img width="1004" height="708" alt="image" src="https://github.com/user-attachments/assets/6bdd8732-c2f0-4239-8ea1-63c63d0c0565" />
 
+using ls -l to view permissions
+<img width="917" height="660" alt="image" src="https://github.com/user-attachments/assets/7938290d-db41-44cf-abfe-0a1d901fa986" />
+
 
 
 2a, TCO cost comparison
