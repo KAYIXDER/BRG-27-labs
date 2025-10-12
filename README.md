@@ -37,4 +37,9 @@ launched instance
 
 <img width="1729" height="808" alt="image" src="https://github.com/user-attachments/assets/17b5f30b-1456-4a0e-bf53-19bf28cad524" />
 bash script
+<img width="1458" height="853" alt="image" src="https://github.com/user-attachments/assets/8737c3f6-409f-48f6-992e-f6ba12dd526e" />
+server automation
+
+<img width="1461" height="835" alt="image" src="https://github.com/user-attachments/assets/3347971d-038f-48dd-b7ce-4bdc1354f849" />
+<img width="1461" height="835" alt="image" src="https://github.com/user-attachments/assets/61f43e35-1fa2-4280-87d5-365ca20dbc51" />
 
