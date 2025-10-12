@@ -4,15 +4,21 @@ for my bridging programme things
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/92f1f346-3421-49ce-a33b-9b68434d9ea8" />
-Lab 1a ii, ubuntu using virtualbox.
+Lab 1a ii, successfully launched ubuntu using virtualbox.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea761bf9-70e9-481a-9f47-c6e64ce1e221" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fb1c187-ff1e-40d2-87b3-27b3ed337026" />
-Lab 1a iii
+Lab 1a, getting myself familiarized with linux commands
 
 <img width="1676" height="924" alt="image" src="https://github.com/user-attachments/assets/1ba99e85-1985-4f22-a84b-93618668fb14" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33941746-0b3b-4a7a-b4a3-31f8f70ef565" />
+
+
+Lab 1b, listing services in linux
+<img width="1066" height="788" alt="image" src="https://github.com/user-attachments/assets/01a5b5d1-5811-4bcb-9451-a566ea4d9d3d" />
+checking status of services
+<img width="1004" height="708" alt="image" src="https://github.com/user-attachments/assets/6bdd8732-c2f0-4239-8ea1-63c63d0c0565" />
 
 
 
